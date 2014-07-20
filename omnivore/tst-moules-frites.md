@@ -1,31 +1,7 @@
-Ingredients Method
-1. Tip the mussels into a large
-bowl of cold water. Discard any
-that remain open when tapped,
-then drain well and pull away any
-‘beards’. (Fresh mussels look
-black and shiny and should only
-smell pleasantly of the deep sea
-– the vast majority should be
-tightly closed. Avoid any that
-smell ‘fishy’, look dry or are
-mostly open.)
-2. Thinly slice the vegetables and
-garlic. Roll the chilli in your hands
-to loosen the seeds, then slit in
-half and shake out the seeds.
-Slice the flesh into thin sticks,
-then stack together and finely
-chop. Pick over the thyme sprigs,
-discarding the thick stalks, and
-pick the parsley leaves from the
-stalks. Prepare the chips (see
-recipe, below right).
-3. Place a large, heavy-based
-sauté pan (with a lid) on the hob
 Moules frites
-Nutrition
-- - - - - - - -
+
+# Ingredients
+
 Prep: 20 mins
 Cook: 10 mins
 Moderately easy Serves 2
@@ -63,6 +39,33 @@ pan is hot enough. Cook for
 about 1½ mins, shaking the pan
 and stirring the vegetables until
 they start to wilt.
+
+# Directions
+
+1. Tip the mussels into a large
+bowl of cold water. Discard any
+that remain open when tapped,
+then drain well and pull away any
+‘beards’. (Fresh mussels look
+black and shiny and should only
+smell pleasantly of the deep sea
+– the vast majority should be
+tightly closed. Avoid any that
+smell ‘fishy’, look dry or are
+mostly open.)
+2. Thinly slice the vegetables and
+garlic. Roll the chilli in your hands
+to loosen the seeds, then slit in
+half and shake out the seeds.
+Slice the flesh into thin sticks,
+then stack together and finely
+chop. Pick over the thyme sprigs,
+discarding the thick stalks, and
+pick the parsley leaves from the
+stalks. Prepare the chips (see
+recipe, below right).
+3. Place a large, heavy-based
+sauté pan (with a lid) on the hob
 4. With the heat still on high, toss
 in all the mussels and shake the
 pan so they form an even layer.
@@ -90,7 +93,10 @@ pan, then divide between two
 large soup bowls. Serve the
 chips and mayonnaise (recipe
 below) alongside.
-7. TIP: Make the mayo and
+
+# Tips
+
+1. TIP: Make the mayo and
 prepare the chips before you
 start the mussels. Fry the chips
 Edward or Weltje)
@@ -107,8 +113,8 @@ powder
 150ml light olive oil
 1 tsp white wine
 vinegar
-Tip
-Fresh mussels
+
+2. Fresh mussels
 Mussels should feel heavy
 for their size. Any that feel
 suspiciously light or sound
@@ -118,8 +124,8 @@ mussels you can find, as
 these will have the
 sweetest flavour and
 softest texture.
-Tip
-Gordon says...
+
+3. Gordon says...
 I think some people are
 still scared to cook
 mussels, but as long as
